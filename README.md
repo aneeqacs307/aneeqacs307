@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hi, I'm Aneeqa
 
-<!--
-**aneeqacs307/aneeqacs307** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m starting my journey in **Computer Science** after completing **FSc (Medical)**.  
+This repository is about **my learning path, projects, and growth** in technology.
 
-Here are some ideas to get you started:
+## 🌱 About Me
+- 🎓 Completed FSc (Medical)
+- 💻 Starting Computer Science for my professional career
+- 🚀 Interested in programming, web development, and exploring new technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Learning Goals
+- Learn programming fundamentals (Python, C++, or Java)
+- Build small projects to practice my skills
+- Understand how computers and software work
+- Prepare myself for a future career in tech
+
+## 🛠 Skills (in progress)
+- Programming: `Python` | `C++` | `JavaScript`
+- Tools: `Git` and `GitHub` for version control
+- Basic understanding of algorithms and problem-solving
+
+## 📂 Projects
+I’ll upload my first coding exercises and mini-projects here soon.
+
+## 📫 Connect With Me
+- **LinkedIn**: [Aneeqa Pervaiz](https://www.linkedin.com/in/aneeqa-pervaiz-684191385/)  
+- **X / Twitter**: [@aneeqacs307](https://x.com/aneeqacs307)
+
+---
+
+✨ **Follow my journey here!**
