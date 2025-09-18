@@ -15,9 +15,8 @@ This repository is about **my learning path, projects, and growth** in technolog
 - Prepare myself for a future career in tech
 
 ## 🛠 Skills (in progress)
-- Programming: `Python` | `C++` | `JavaScript`
-- Tools: `Git` and `GitHub` for version control
-- Basic understanding of algorithms and problem-solving
+
+- Basic understanding of computer and tecnologies
 
 ## 📂 Projects
 I’ll upload my first coding exercises and mini-projects here soon.
